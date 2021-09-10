@@ -21,8 +21,8 @@ h1 {
 
 #main-container {
     min-height: 400px;
-    margin: 0 0 0 125px;
-    padding: 20px;
-    background-color: #fff;
-    border: 1px solid #888;
+    margin: 0px 20px 10px 20px;
+    padding: 5px;
+    background-color: #FFF1AD;
+    border: 2px solid #BD49FF;
 }
