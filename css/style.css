@@ -1,0 +1,9 @@
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+div div-center {
+    display: block;
+    margin: 0 auto;
+}
