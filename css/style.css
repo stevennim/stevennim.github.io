@@ -1,13 +1,11 @@
 h1 {
     color: navy;
-    margin-left: 20px;
 }
 
 .imgcenter {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
     border: 1px solid black;
 }
 
@@ -17,6 +15,7 @@ h1 {
     margin-right: auto;
     width: 50%;
     height: 50%;
+    border: 1px solid black;
 }
 
 #main-container {
