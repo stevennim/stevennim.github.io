@@ -8,6 +8,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    border: 1px solid black;
 }
 
 .imgcenter-vertical {
@@ -20,8 +21,8 @@ h1 {
 
 #main-container {
     min-height: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: white;
-    border: 2px solid teal;
+    margin: 0 0 0 125px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #888;
 }
